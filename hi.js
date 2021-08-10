@@ -26,7 +26,7 @@ generic.submit सबमिट करें
 generic.create बनाएँ
 generic.random रैंडम
 generic.failed असफल
-generic.success सफलता
+generic.success सफल
 generic.name नाम
 generic.level लेवल
 generic.score स्कोर
@@ -47,7 +47,7 @@ generic.games.played खेले गये खेल
 generic.games.won खेल जीते
 generic.games.lost खेल हारे
 generic.timep कितना समय खेला
-generic.kills हत्या
+generic.kills हत्याएँ
 generic.deaths मौतें
 generic.kdr KDR
 generic.time समय
