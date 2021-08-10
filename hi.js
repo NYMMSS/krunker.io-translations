@@ -26,7 +26,7 @@ generic.submit सबमिट करें
 generic.create बनाएँ
 generic.random रैंडम
 generic.failed असफल
-generic.success सफलता
+generic.success सफल
 generic.name नाम
 generic.level लेवल
 generic.score स्कोर
@@ -47,9 +47,9 @@ generic.games.played खेले गये खेल
 generic.games.won खेल जीते
 generic.games.lost खेल हारे
 generic.timep कितना समय खेला
-generic.kills हत्या
+generic.kills हत्याएं
 generic.deaths मौतें
-generic.kdr KDR
+generic.kdr हत्या-मौत दरे
 generic.time समय
 generic.logout लॉगआउट
 generic.logout.sessions सभी सत्रों से लॉगआउट
@@ -73,7 +73,7 @@ app.play.mobile खेलने के लिए टैप करें
 app.spectate.mobile स्पैक्टेट करे
 app.play.controller START दबाएं
 app.spectate.controller स्पैक्टेट करे
-purchase.error ERROR
+purchase.error एरर
 purchase.error.click यहां क्लिक करें  </a> और फिर से प्रयास करें!
 purchase.error.limit आप अपनी दैनिक लेनदेन सीमा को पार कर चुकें हैं
 settings.reset रीसेट
